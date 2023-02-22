@@ -1,0 +1,15 @@
+E:\Estudos\Socket\Servidor-Socket\Servidor-Socket\bin\Debug\net6.0\Servidor-Socket.exe
+E:\Estudos\Socket\Servidor-Socket\Servidor-Socket\bin\Debug\net6.0\Servidor-Socket.deps.json
+E:\Estudos\Socket\Servidor-Socket\Servidor-Socket\bin\Debug\net6.0\Servidor-Socket.runtimeconfig.json
+E:\Estudos\Socket\Servidor-Socket\Servidor-Socket\bin\Debug\net6.0\Servidor-Socket.dll
+E:\Estudos\Socket\Servidor-Socket\Servidor-Socket\bin\Debug\net6.0\Servidor-Socket.pdb
+E:\Estudos\Socket\Servidor-Socket\Servidor-Socket\obj\Debug\net6.0\Servidor-Socket.csproj.AssemblyReference.cache
+E:\Estudos\Socket\Servidor-Socket\Servidor-Socket\obj\Debug\net6.0\Servidor-Socket.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\Socket\Servidor-Socket\Servidor-Socket\obj\Debug\net6.0\Servidor-Socket.AssemblyInfoInputs.cache
+E:\Estudos\Socket\Servidor-Socket\Servidor-Socket\obj\Debug\net6.0\Servidor-Socket.AssemblyInfo.cs
+E:\Estudos\Socket\Servidor-Socket\Servidor-Socket\obj\Debug\net6.0\Servidor-Socket.csproj.CoreCompileInputs.cache
+E:\Estudos\Socket\Servidor-Socket\Servidor-Socket\obj\Debug\net6.0\Servidor-Socket.dll
+E:\Estudos\Socket\Servidor-Socket\Servidor-Socket\obj\Debug\net6.0\refint\Servidor-Socket.dll
+E:\Estudos\Socket\Servidor-Socket\Servidor-Socket\obj\Debug\net6.0\Servidor-Socket.pdb
+E:\Estudos\Socket\Servidor-Socket\Servidor-Socket\obj\Debug\net6.0\Servidor-Socket.genruntimeconfig.cache
+E:\Estudos\Socket\Servidor-Socket\Servidor-Socket\obj\Debug\net6.0\ref\Servidor-Socket.dll
