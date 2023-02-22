@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Estudos\\Socket\\Servidor\\Servidor\\Cliente.csproj",
+      "projectUniqueName": "E:\\Estudos\\Socket\\Cliente-Socket\\Servidor\\Cliente.csproj",
       "projectName": "Cliente",
-      "projectPath": "E:\\Estudos\\Socket\\Servidor\\Servidor\\Cliente.csproj",
+      "projectPath": "E:\\Estudos\\Socket\\Cliente-Socket\\Servidor\\Cliente.csproj",
       "packagesPath": "C:\\Users\\igor.miranda_cmtecno\\.nuget\\packages\\",
-      "outputPath": "E:\\Estudos\\Socket\\Servidor\\Servidor\\obj\\",
+      "outputPath": "E:\\Estudos\\Socket\\Cliente-Socket\\Servidor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
